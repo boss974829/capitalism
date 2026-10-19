@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Capital Flop",
+      "hasCanvas": false,
+      "bodyTextLen": 3012,
+      "bodyTextHash": "91e3a355be1e080ad22ef11dcccc8f1b165b595b6c89cc19ab8f1a0fefeb3a2f",
+      "bodyTextPrefix": "Flop CAPITAL Live around 18 Oct 2026 anchors LIVE 00:00 THE DROP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Capital Flop",
+      "hasCanvas": false,
+      "bodyTextLen": 3012,
+      "bodyTextHash": "91e3a355be1e080ad22ef11dcccc8f1b165b595b6c89cc19ab8f1a0fefeb3a2f",
+      "bodyTextPrefix": "Flop CAPITAL Live around 18 Oct 2026 anchors LIVE 00:00 THE DROP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
